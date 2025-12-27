@@ -1,0 +1,5 @@
+# ninja log v5
+0	13679	1743047003457250083	/data/huzhangfeng/PiMAE/Pretrain/extensions/emd/build/temp.linux-x86_64-cpython-39/cuda/emd_kernel.o	7e9dd33dec33d43e
+0	20335	1743047010109638361	/data/huzhangfeng/PiMAE/Pretrain/extensions/emd/build/temp.linux-x86_64-cpython-39/cuda/emd.o	1296588b3339bb09
+5	14580	1747563650383201886	/data/huzhangfeng/PiMAE/Pretrain/extensions/emd/build/temp.linux-x86_64-cpython-39/cuda/emd_kernel.o	fa76b531c679618f
+5	22353	1747563658155300567	/data/huzhangfeng/PiMAE/Pretrain/extensions/emd/build/temp.linux-x86_64-cpython-39/cuda/emd.o	1296588b3339bb09

@@ -1,0 +1,5 @@
+# ninja log v5
+0	15936	1743046888698213838	/data/huzhangfeng/PiMAE/Pretrain/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer_cuda.o	3ba7c9d5cbeea46
+0	40695	1743046913451792817	/data/huzhangfeng/PiMAE/Pretrain/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer.o	e275acedc73a40ae
+18	18101	1747563579546213601	/data/huzhangfeng/PiMAE/Pretrain/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer_cuda.o	3ba7c9d5cbeea46
+18	47089	1747563608530637977	/data/huzhangfeng/PiMAE/Pretrain/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer.o	e860ea376c323427
