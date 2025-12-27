@@ -2,7 +2,7 @@
 
 Pytorch pretraining & downstream-training code for **FAME**. We propose a novel self-supervised multimodal learning framework tailored for dynamic AU rep resentation learning. FAME features asynchronous masked pretraining through high pass filtered facial images and incomplete point clouds from the past. 
 
-![image-20251227100337659](.\figs\framework)
+![image-20251227100337659](.\figs\framework.jpg)
 
 ## Model Zoo
 
@@ -41,9 +41,7 @@ python pretrain.py
 
 The framework supports qualitative visualization of reconstructed multimodal signals.
 
-![image-20251227104319524](.\figs\vis1.png)
-
-![image-20251227104255143](.\figs\vis2)
+![image-20251227104319524](.\figs\vis.jpg)
 
 (Visualization scripts will be released together with the full paper.)
 
